@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 14 14" fill="none"
+                    xmlns="http://www.w3.org/2000/svg" data-v-inspector="components/Summary.vue:74:37">
+                    <path
+                        d="M0 7C0 3.13401 3.13401 0 7 0C10.866 0 14 3.13401 14 7C14 10.866 10.866 14 7 14C3.13401 14 0 10.866 0 7Z"
+                        fill="#FF704D" data-v-inspector="components/Summary.vue:76:41"></path>
+                    <path
+                        d="M5.21181 3.59832C4.71121 3.31725 4.08333 3.67272 4.08333 4.23484V9.76516C4.08333 10.3273 4.71121 10.6827 5.21181 10.4017L10.1245 7.64066C10.6251 7.35959 10.6251 6.64867 10.1245 6.36761L5.21181 3.59832Z"
+                        fill="white" data-v-inspector="components/Summary.vue:79:41"></path>
+                </svg>
